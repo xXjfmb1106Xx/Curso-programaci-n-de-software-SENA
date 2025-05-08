@@ -1,1 +1,3 @@
-# Curso-programaci-n-de-software-SENA
+# Curso-programacion-de-software-SENA
+# python 
+# 
